@@ -1,4 +1,4 @@
-# vuetify-filter-grid
+﻿# vuetify-filter-grid
 
 > A Vue.js project
 
@@ -15,7 +15,16 @@ npm run dev
 npm run build
 
 # build for production and view the bundle analyzer report
-npm run build --report
+npm run build —report
+
+
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+For Vuetify 2.4
+
+
+**Demo:**
+![screen shot](public/img/demo.png)
+
