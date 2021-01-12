@@ -26,5 +26,6 @@ For Vuetify 2.4
 
 
 **Demo:**
-![screen shot](public/img/demo.png)
+
+![screen shot](public/media/demo.gif)
 
